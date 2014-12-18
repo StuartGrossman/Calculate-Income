@@ -1,0 +1,78 @@
+table, td{
+	margin: 2px;
+	border: 1px solid black;
+	padding: 5px;
+
+}
+table{
+	
+	background: url('img/strip.jpg')
+}
+body{
+	background: white;
+	opacity: ;
+	background-image: url('img/grey.png') 
+}
+#text1{
+	border-radius: 25px;
+	background-color: white;
+	width: 200px;
+}
+#text1:focus {outline:none;}
+
+td:hover{
+	background: white;
+	opacity: 0.5;
+}
+#body2{
+	/*background: white;*/
+	/*opacity: 0.5;*/
+	border-radius: 25px;
+}
+#years:hover{
+	font-size: 50px;
+}
+#days:hover{
+	font-size: 50px;
+}
+#spam{
+	font-size: 10px;
+	margin-bottom:  : 100px;
+
+}
+p{
+
+}
+#kam{
+	height: 20%;
+	margin-top: 0px;
+}
+#bill{
+	height: 7.5%;
+}
+#larry{
+	height: 20%;
+	margin-left: 15px;
+}
+#carlos{
+	height: 15%;
+	margin-left: 30px;
+	margin-top: 5px;
+}
+#table img {vertical-align: bottom;}
+#ortega{
+	height: 26%;
+	margin-left: 5px;
+}
+#warren{
+	height: 3%;
+	margin-left: 3px;
+	margin-top: 5px;
+}
+#table {
+    table-layout: fixed;
+}
+
+#table td {
+	height: 25%;
+}
